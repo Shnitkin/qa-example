@@ -1,9 +1,9 @@
-name: Ilona Maskova # ваше имя
+name: Den Shnitkin
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: shnitkin@mail.ru
 description: |
-  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
+
 
   Текст может быть написан в несколько абзацев
 skills: # список навыков в виде списка, напишите что-то свое
